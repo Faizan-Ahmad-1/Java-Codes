@@ -1,0 +1,22 @@
+#navb{
+    background-color: #1D3557;
+}
+.Statement{
+    height: 136px;
+    background-color: #1D3557;
+    color: white;
+}
+#result{
+    
+    height: 172px;
+}
+#buttoncenter > button{
+    width: 250px;
+}
+#result{
+    height: 264px;
+}
+footer{
+    background-color: #1D3557;
+    color: white;
+}

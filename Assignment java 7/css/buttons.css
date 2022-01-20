@@ -1,0 +1,9 @@
+.buttoncenter{
+    text-align: center;
+}
+.buttoncenter > button{
+    width: 250px;
+}
+h4{
+    text-align: center;
+}
